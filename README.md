@@ -1,2 +1,2 @@
 # MTN-churn-dashboard
-![logo]()
+![logo](https://github.com/XeNoX36/MTN-churn-dashboard/blob/main/MTN%202.jpg)
